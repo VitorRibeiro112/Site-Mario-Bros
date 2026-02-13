@@ -18,4 +18,4 @@ Este é um projeto front-end que apresenta um site temático inspirado no univer
 
 - JavaScript básico para interatividade
 
-## Como visualizar o projeto
+<img width="1353" height="636" alt="Captura de tela 2026-02-13 110307" src="https://github.com/user-attachments/assets/7d22f048-5386-4443-ae7e-6a7ab9fcb1d0" />
